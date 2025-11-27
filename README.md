@@ -66,7 +66,7 @@ a motivated software developer specializing in building robust web applications 
       <sub><b>Microsoft Excel</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="40"/><br/>
+      <img src="https://www.flaticon.com/free-icon/powerpoint_888874?term=powerpoint&page=1&position=1&origin=search&related_id=888874" height="40"/><br/>
       <sub><b>PowerPoint</b></sub>
     </td>
     <td align="center">
