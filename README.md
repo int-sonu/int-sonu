@@ -47,7 +47,7 @@ a motivated software developer specializing in building robust web applications 
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
-  <img src="https://img.shields.io/badge/Object-Oriented%20Programming-blue?style=for-the-badge&logo=&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/Object-Oriented%20Programming-blue?style=for-the-badge&logo=&logoColor=white"width="20" /><br/>
       <sub><b>OOP</b></sub>
     </td>
   </tr>
