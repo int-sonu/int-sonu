@@ -53,3 +53,31 @@ a motivated software developer specializing in building robust web applications 
   </tr>
 </table>
 
+
+## 🌐 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas.  
+Feel free to reach out!
+
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sonu-sebastian-953934232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:sonu.sebastian184@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/int-sonu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+ 
+
+</p>
+
+
