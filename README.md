@@ -53,6 +53,29 @@ a motivated software developer specializing in building robust web applications 
   </tr>
 </table>
 
+## 🧰 Tools
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" height="40"/><br/>
+      <sub><b>Microsoft Word</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40"/><br/>
+      <sub><b>Microsoft Excel</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" height="40"/><br/>
+      <sub><b>PowerPoint</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ## 🌐 Let's Connect!
 
