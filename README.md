@@ -47,7 +47,7 @@ a motivated software developer specializing in building robust web applications 
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" height="40"/><br/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140046.png" height="40" alt="OOP icon"/><br/>
       <sub><b>OOP</b></sub>
     </td>
   </tr>
