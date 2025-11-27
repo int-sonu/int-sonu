@@ -62,8 +62,8 @@ a motivated software developer specializing in building robust web applications 
       <sub><b>Microsoft Excel</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732214.png" height="40"/><br/>
-      <sub><b>Microsoft Excel</b></sub>
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40"/><br/>
+      <sub><b>Microsoft Word </b></sub>
     </td>
     <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="40" alt="PowerPoint logo"/>
