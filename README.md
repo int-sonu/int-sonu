@@ -4,7 +4,6 @@
 a motivated software developer specializing in building robust web applications using the MERN stack and Python. I am pursuing Integrated MCA in Computer Applications at Amal Jyothi College of Engineering, with hands-on experience from internships and e-commerce projects. I enjoy turning ideas into scalable, user-friendly software and collaborating with cross-functional teams to deliver value.I llike to interest exploring new technologies, writing clean APIs, and crafting responsive interfaces. I'm excited about building impactful solutions and continuously learning new skills.
 
 ## Tech Stack
-## 🚀 Tech Stack
 
 <table>
   <tr>
@@ -25,10 +24,15 @@ a motivated software developer specializing in building robust web applications 
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/>
       <sub><b>React</b></sub>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/><br/>
@@ -41,6 +45,10 @@ a motivated software developer specializing in building robust web applications 
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/><br/>
       <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" height="40"/><br/>
+      <sub><b>OOP</b></sub>
     </td>
   </tr>
 </table>
