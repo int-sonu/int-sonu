@@ -58,7 +58,7 @@ a motivated software developer specializing in building robust web applications 
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40"/><br/>
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" alt="Word logo" /></br>
       <sub><b>Microsoft Word</b></sub>
     </td>
     <td align="center">
