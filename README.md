@@ -12,7 +12,7 @@ a motivated software developer specializing in building robust web applications 
       <sub><b>HTML</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>
       <sub><b>CSS</b></sub>
     </td>
     <td align="center">
