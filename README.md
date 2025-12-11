@@ -29,7 +29,25 @@ I’m passionate about exploring new technologies, writing clean and efficient A
 
 </p>
 
+Featured Projects
+💻 MERN Stack Web Application
 
+Project Overview:
+A full-stack MERN application where users can browse products, manage accounts, add items to cart, and place orders. Admin can manage users, products, and orders.
+There are Two Users are there: Admin and Customer.
+
+Technical Implementation:
+
+Frontend: React, Tailwind, Axios, Context/Redux
+
+Backend: Node.js, Express, Session-based Authentication, REST APIs
+
+Database: MongoDB + Mongoose
+
+Deployment: Amazon Web Services (AWS)
+
+Soft Skills:
+ problem-solving, time management,Research and Learning
 
 ## 🌐 Let's Connect!
 
