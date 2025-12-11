@@ -59,7 +59,7 @@ I'm a motivated software developer specializing in building robust web applicati
    <tr> 
    <td align="center">
    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40"/><br/><sub><b>Microsoft Excel</b></sub></td>   
-   <td align="center"><img src=<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/94a3a77c-054c-4405-99df-aed00726b687" height="40"/><br/><sub><b>Microsoft Word</b></sub></td> 
+   <td align="center"><img src="https://github.com/int-sonu/-assets-images-/blob/59188c3a5d6fb06bc8f5b2dbd1d7dfe246145138/word.jpg" height="40"/><br/><sub><b>Microsoft Word</b></sub></td> 
      <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="40"/><br/><sub><b>PowerPoint</b></sub></td>
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/><br/><sub><b>Figma</b></sub></td>
    </tr> 
