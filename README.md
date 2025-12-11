@@ -15,62 +15,20 @@ I’m passionate about exploring new technologies, writing clean and efficient A
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🧰 Tools
+### 🧰 Tools
 
+<p align="left">
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-    <br/><sub><b>HTML</b></sub>
-  </span>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-    <br/><sub><b>CSS</b></sub>
-  </span>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
-    <br/><sub><b>Tailwind CSS</b></sub>
-  </span>
-
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-    <br/><sub><b>JavaScript</b></sub>
-  </span>
-
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-    <br/><sub><b>TypeScript</b></sub>
-  </span>
-
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-    <br/><sub><b>React</b></sub>
-  </span>
-
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-    <br/><sub><b>Node.js</b></sub>
-  </span>
-
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-    <br/><sub><b>Express</b></sub>
-  </span>
-
-  <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-    <br/><sub><b>MongoDB</b></sub>
-  </span>
-
-  <span align="center">
-    <img src="https://img.icons8.com/?size=80&id=23286&format=png" height="40" />
-    <br/><sub><b>OOPS</b></sub>
-  </span>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </p>
+
 
 
 ## 🌐 Let's Connect!
