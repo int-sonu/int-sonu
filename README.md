@@ -35,7 +35,7 @@ I’m passionate about exploring new technologies, writing clean and efficient A
 Project Overview:
 A full-stack MERN e-commerce application where customers can browse products, manage accounts, add items to the cart, and place orders, while the admin manages users, products, and orders efficiently. The platform ensures seamless interaction between users and the backend with real-time updates.
 
-# There are Two Users are there: Admin and Customer.
+ There are Two Users are there: Admin and Customer.
 
 Technical Implementation:
 
@@ -47,7 +47,7 @@ Database: MongoDB + Mongoose
 
 Deployment: Amazon Web Services (AWS)
 
-## Soft Skills:
+Soft Skills:
 problem-solving, time management,Research and Learning
 
 💻 Furniture E-Commerce for Buying & Purchasing Customizing Products
@@ -64,7 +64,7 @@ Database: Sqlite, models for Users, Products, Orders, Cart, CustomizationRequest
 
 Deployment: Render, environment variable management
 
-## Soft Skills:
+ Soft Skills:
 problem-solving, time management,Research and Learning
 
 ## 🌐 Let's Connect!
