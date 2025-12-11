@@ -74,9 +74,12 @@ I'm a motivated software developer specializing in building robust web applicati
     </td>
   </tr>
 </table>
+## 📊 My GitHub Stats
 
-My GitHub Stats
-<p align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=int-sonu&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=int-sonu&layout=compact&langs_count=8&theme=radical" /> </p>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=int-sonu&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=int-sonu&layout=compact&langs_count=8&theme=radical" />
+</p>
 
 ## 🌐 Let's Connect!
 
