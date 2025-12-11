@@ -18,28 +18,58 @@ I’m passionate about exploring new technologies, writing clean and efficient A
 ## 🧰 Tools
 
 
-### 🧰 Tools
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
 
-<p align="left" style="display: flex; gap: 20px; align-items: center;">
   <span align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40"/><br/>
-    <sub><b>Excel</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+    <br/><sub><b>HTML</b></sub>
   </span>
 
   <span align="center">
-    <img src="https://raw.githubusercontent.com/int-sonu/-assets-images-/main/word.jpg" height="40"/><br/>
-    <sub><b>Word</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+    <br/><sub><b>CSS</b></sub>
   </span>
 
   <span align="center">
-    <img src="https://raw.githubusercontent.com/int-sonu/-assets-images-/main/powerpointimg.png" height="40"/><br/>
-    <sub><b>PowerPoint</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+    <br/><sub><b>Tailwind CSS</b></sub>
   </span>
 
   <span align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/><br/>
-    <sub><b>Figma</b></sub>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+    <br/><sub><b>JavaScript</b></sub>
   </span>
+
+  <span align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+    <br/><sub><b>TypeScript</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+    <br/><sub><b>React</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+    <br/><sub><b>Node.js</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+    <br/><sub><b>Express</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+    <br/><sub><b>MongoDB</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://img.icons8.com/?size=80&id=23286&format=png" height="40" />
+    <br/><sub><b>OOPS</b></sub>
+  </span>
+
 </p>
 
 
