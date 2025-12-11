@@ -29,7 +29,7 @@ I’m passionate about exploring new technologies, writing clean and efficient A
 
 </p>
 
-Featured Projects
+###  Featured Projects
 💻 MERN Stack Web Application
 
 Project Overview:
