@@ -50,11 +50,9 @@ Deployment: Amazon Web Services (AWS)
 Soft Skills:
 problem-solving, time management,Research and Learning
 
-🔗 Click here
-
-GitHub Repository
-
-🔗 Click here
+**Links:**  
+- 🔗 [Live Demo](https://51.20.72.156/)  
+- 🔗 [GitHub Repository](https://github.com/int-sonu/Ecom-Mernstackproject.git)
 
 💻 Furniture E-Commerce for Buying & Purchasing Customizing Products
 
