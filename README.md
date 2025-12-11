@@ -4,7 +4,7 @@
 I'm a software developer specializing in building web applications using the MERN stack and Python. I am pursuing an Integrated MCA in Computer Applications, with hands-on experience through internships and e-commerce projects. I enjoy turning ideas into scalable, user-friendly software and collaborating with cross-functional teams to deliver value.
 I’m passionate about exploring new technologies, writing clean and efficient APIs, and crafting responsive interfaces. I'm excited about building impactful solutions and continuously learning new skills.
 
-### 🚀 Tech Stack
+### Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -15,21 +15,32 @@ I’m passionate about exploring new technologies, writing clean and efficient A
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
- 
-
 ## 🧰 Tools
 
 
- <table>
-   <tr> 
-   <td align="center">
-   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40"/><br/><sub><b>Microsoft Excel</b></sub></td>   
-   <td align="center"><img src="https://github.com/int-sonu/-assets-images-/blob/59188c3a5d6fb06bc8f5b2dbd1d7dfe246145138/word.jpg" height="40"/><br/><sub><b>Microsoft Word</b></sub></td> 
-     <td align="center"><img src="https://github.com/int-sonu/-assets-images-/blob/59188c3a5d6fb06bc8f5b2dbd1d7dfe246145138/powerpointimg.png" height="40"/><br/><sub><b>PowerPoint</b></sub></td>
-     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/><br/><sub><b>Figma</b></sub></td>
-   </tr> 
- </table>
+### 🧰 Tools
+
+<p align="left" style="display: flex; gap: 20px; align-items: center;">
+  <span align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40"/><br/>
+    <sub><b>Excel</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://raw.githubusercontent.com/int-sonu/-assets-images-/main/word.jpg" height="40"/><br/>
+    <sub><b>Word</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://raw.githubusercontent.com/int-sonu/-assets-images-/main/powerpointimg.png" height="40"/><br/>
+    <sub><b>PowerPoint</b></sub>
+  </span>
+
+  <span align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/><br/>
+    <sub><b>Figma</b></sub>
+  </span>
+</p>
 
 
 ## 🌐 Let's Connect!
