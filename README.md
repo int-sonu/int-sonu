@@ -33,8 +33,9 @@ I’m passionate about exploring new technologies, writing clean and efficient A
 💻 MERN Stack Web Application
 
 Project Overview:
-A full-stack MERN application where users can browse products, manage accounts, add items to cart, and place orders. Admin can manage users, products, and orders.
-There are Two Users are there: Admin and Customer.
+A full-stack MERN e-commerce application where customers can browse products, manage accounts, add items to the cart, and place orders, while the admin manages users, products, and orders efficiently. The platform ensures seamless interaction between users and the backend with real-time updates.
+
+# There are Two Users are there: Admin and Customer.
 
 Technical Implementation:
 
@@ -46,8 +47,25 @@ Database: MongoDB + Mongoose
 
 Deployment: Amazon Web Services (AWS)
 
-Soft Skills:
- problem-solving, time management,Research and Learning
+## Soft Skills:
+problem-solving, time management,Research and Learning
+
+💻 Furniture E-Commerce for Buying & Purchasing Customizing Products
+
+A full-stack Furniture E-Commerce platform built with Python Django, allowing users to browse, customize, and order furniture products with real-time updates. Features role-based dashboards for customers, designers, sellers, delivery agents, and admin to ensure seamless order management, customization, and delivery tracking.
+
+Technical Implementation
+
+Frontend: HTML, CSS, Bootstrap, JavaScript, responsive UI, AJAX for real-time updates
+
+Backend: Python Django, RESTful APIs, role-based authentication, business logic for customization and orders
+
+Database: Sqlite, models for Users, Products, Orders, Cart, CustomizationRequests
+
+Deployment: Render, environment variable management
+
+## Soft Skills:
+problem-solving, time management,Research and Learning
 
 ## 🌐 Let's Connect!
 
